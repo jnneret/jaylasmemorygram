@@ -12,6 +12,9 @@ body{
     background-color: black;
 }
 
+#descript{
+  background-color: whitesmoke;
+}
 
 .post{
     background-color:white;
@@ -58,6 +61,21 @@ h3{
   font-size: 17px;
   float: left;
 }
+
+#loss{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  Color: green;
+  font-size: 23px;
+}
+
+#head{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  Color: red;
+  font-size: 17px;
+}
+
+
+
 
 .username{
   margin-left: 15px;
